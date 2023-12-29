@@ -1,5 +1,5 @@
 ### Welcome to my github! 😃 <br> My name is Bruno Serbai. 
-Currently studying software engineer 📖
+Currently studying software engineering 📖
 
 ### Experience and skills ⚡
 I've worked on small real life projects to build a ordering system and whatsapp automation for a restaurant. Working on improving my skills in javascript, CSS and HTML.
