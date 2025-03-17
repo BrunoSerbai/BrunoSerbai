@@ -40,8 +40,3 @@ Hello, I'm Bruno! A software engineering student!
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-### Problem Solving
-![codewars](https://www.codewars.com/users/BrunoSerbai/badges/small)
-
-![Bruno's Graph](https://github-readme-activity-graph.vercel.app/graph?username=brunoserbai&custom_title=Bruno%20%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=)
